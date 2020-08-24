@@ -26,6 +26,8 @@
 .profile {
   border-radius: 100%;
   margin-right: 1.5rem;
+  width: 75px;
+  height: 75px;
 }
 .blogPageArticle {
   margin-bottom: 12rem;
