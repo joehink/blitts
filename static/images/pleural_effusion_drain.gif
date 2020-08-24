@@ -1,0 +1,710 @@
+<!doctype html>
+<html class="no-js"  lang="en" dir="ltr" 
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+  <!-- Set gtm id codes for various environments. -->
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W3ZV');</script>
+	<!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+    <title>About Cancer | Cancer Research UK</title>
+
+  <!--[if IE]><![endif]-->
+<link rel="preconnect" href="//cdn.optimizely.com" />
+<link rel="dns-prefetch" href="//cdn.optimizely.com" />
+<link rel="preconnect" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/sites/all/themes/custom/cruk/fonts/vendor/bootstrap/glyphicons-halflings-regular.woff" rel="preload" as="font" crossorigin="1" />
+<link href="/sites/all/themes/custom/cruk/fonts/cruk-icons/CRUKIcons.woff" rel="preload" as="font" crossorigin="1" />
+<link rel="shortcut icon" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/favicon.ico" />
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "additionalType": "NGO",
+            "@id": "https://www.cancerresearchuk.org/",
+            "name": "Cancer Research UK",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2 Redman Place",
+                "addressRegion": "London",
+                "postalCode": "E20 1JQ",
+                "addressCountry": "UK"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.531545",
+                "longitude": "0.106587"
+            },
+            "telephone": "0300 123 4452",
+            "url": "https://www.cancerresearchuk.org/",
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Cancer_research",
+                "https://en-gb.facebook.com/cancerresearchuk/",
+                "https://twitter.com/CR_UK",
+                "https://www.instagram.com/cr_uk",
+                "https://www.linkedin.com/company/cancer-research-uk/",
+                "https://www.cancerresearchuk.org/"
+            ],
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg"
+            },
+            "logo": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg"
+            }
+        }
+    ]
+}</script>
+<meta name="description" content="Find out about possible causes of cancer, how cancer starts and grows, tests to diagnose it, and general information about treatments." />
+<meta name="robots" content="follow, index" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.cancerresearchuk.org/about-cancer" />
+<link rel="shortlink" href="https://www.cancerresearchuk.org/node/200376" />
+<meta http-equiv="content-language" content="en-gb" />
+<meta property="og:site_name" content="Cancer Research UK" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cancerresearchuk.org/about-cancer" />
+<meta property="og:title" content="About Cancer" />
+<meta property="og:updated_time" content="2020-07-21T11:06:03+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.cancerresearchuk.org/about-cancer" />
+<meta name="twitter:title" content="About Cancer" />
+<meta property="article:published_time" content="2017-08-30T11:33:49+01:00" />
+<meta property="article:modified_time" content="2020-07-21T11:06:03+01:00" />
+
+      <link rel="apple-touch-icon" sizes="57x57" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/favicon-32x32.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/android-chrome-192x192.png" sizes="192x192">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" type="image/png" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/manifest.json">
+<link rel="shortcut icon" href="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/favicon.ico">
+<meta name="msapplication-TileImage" content="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/mstile-144x144.png">
+<meta name="msapplication-TileColor" content="#ec008c">
+<meta name="msapplication-config" content="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/favicons/sites/default/files/favicons/browserconfig.xml" />
+<meta name="apple-mobile-web-app-title" content="CRUK">
+<meta name="application-name" content="CRUK">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"b822ee32da",applicationID:"70689179"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(c(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(5),c=e(6),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,n){s[n]=i(p+n,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(l+"tracer",[u.now(),e,t],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&d("lcp",[t[t.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var n=Math.round(e.timeStamp),t={type:e.type};n<=p.now()?t.fid=p.now()-n:n>p.offset&&n<=Date.now()?(n-=p.offset,t.fid=p.now()-n):n=p.now(),g=!0,d("timing",["fi",n,t])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(4),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e){function n(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,n,!1)}n.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],5:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],6:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],7:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function t(t,r,i,o){if(!p.aborted||o){e&&e(t,r,i);for(var a=n(i),c=v(t),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[t]];return d&&d.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(t)}function y(e,n){u(e,function(e,t){n=n||"feature",w[t]=n,n in s||(s[n]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(5),s={},d={},p=n.exports=i();p.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(w,function(n,t){e[n]||(e[n]=t)});var t=a();f("mark",["onload",t+E.offset],null,"api"),f("timing",["load",t]);var r=l.createElement("script");r.src="https://"+e.agent,n.parentNode.insertBefore(r,n)}}function i(){"complete"===l.readyState&&o()}function o(){f("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-E.offset}var c=(new Date).getTime(),f=e("handle"),u=e(5),s=e("ee"),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,y=g&&g.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var h=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1177.min.js"},b=g&&y&&y[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:c,now:a,origin:h,features:{},xhrWrappable:b,userAgent:d};e(1),e(2),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),f("mark",["firstbyte",c],null,"api");var x=0,O=e(7)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(6),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof t?t(r,a):t||{}}catch(u){p([u,"",[r,a,i],c])}s(n+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(n+"err",[r,a,d],c),d}finally{s(n+"end",[r,a,f],c)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<n.length;f++)c=n[f],a=e[c],r(a)||(e[c]=t(a,u?c+i:i,o,c))}function s(t,r,i){if(!f||n){var o=f;f=!0;try{e.emit(t,r,i,n)}catch(a){p([a,t,r,i])}f=o}}function d(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){p([r])}for(var i in e)c.call(e,i)&&(n[i]=e[i]);return n}function p(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="/sites/default/files/advagg_css/css__jTqPRLosfauD32onwz8QUHxio3rRESeZew7Rlg6cmB8__XD3X4fmJxWUC6FIkb4WKk7nITrkwFqDf8Wcw1vkb1B0__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.css" />
+<style>#sliding-popup.sliding-popup-top,#sliding-popup.sliding-popup-top .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#ebebeb;}#sliding-popup.sliding-popup-top.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,#sliding-popup label,#sliding-popup div,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#333333 !important;}.eu-cookie-withdraw-tab{border-color:#333333;}.eu-cookie-compliance-more-button{color:#333333 !important;}#sliding-popup.sliding-popup-top{position:fixed;}
+</style>
+<link rel="stylesheet" href="/sites/default/files/advagg_css/css__8ZDofWEqiblpgFDQtXsCdpsBv00fb2va7ejkXCY0tVA__vXuFtG5jCXWl_QNDxcnmPNhk3wqnmNOSkKVQj8Fd24c__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.css" />
+<link rel="stylesheet" href="/sites/default/files/css_injector/css_injector_346.css?qfe2s2" />
+<link rel="stylesheet" href="/sites/default/files/advagg_css/css__e-3LGefiWB4MHPwfooHJrb2eYC0enZwhsD_zN5UGGkw__-gyagOwxLR7GYzttd1iloN-x750AnVkOMvmcPO7elrk__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.css" />
+<link rel="stylesheet" href="/sites/default/files/css_injector/css_injector_426.css?qfe2s2" />
+<link rel="stylesheet" href="/sites/default/files/advagg_css/css__IV3B39hOcXu760HRKnQewclNSxpG1eTu269W9RXgnHY__4VSluWWtCMsHaymn4BsX6qZYkGzw1wm0pYz2xVj1IqE__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.css" />
+<link rel="stylesheet" href="/sites/default/files/css_injector/css_injector_446.css?qfe2s2" />
+<link rel="stylesheet" href="/sites/default/files/advagg_css/css__F87p51w7E84Mbg7QTdEhM2BsDou7CbbuTDi5OiS9Sx8__VXLNCaLDP-DP2SzxG-xSa0GCMxwRMhvGl_0jjVFVOmA__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.css" />
+<link rel="stylesheet" href="/sites/default/files/css_injector/css_injector_466.css?qfe2s2" />
+<link rel="stylesheet" href="/sites/default/files/css_injector/css_injector_471.css?qfe2s2" />
+<link rel="stylesheet" href="/sites/default/files/advagg_css/css__J9tNHP_InwqxYvXXjLFmybGsbZ5mlBaZpCJed_rMHqQ__FUhWcnpd5NDCUq4_Wz3K75t_jNZcT9Idb6QzalIQ3EM__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.css" />
+  <script>
+    window.CancerResearchUK = {};
+  </script>
+    <!--[if lt IE 9]>
+  <script src="https://www.cancerresearchuk.org/sites/all/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+  <script src="https://www.cancerresearchuk.org/sites/all/themes/contrib/mothership/mothership/js/html5.js"></script>
+  <![endif]-->
+
+  </head>
+
+<body class="not-front no-sidebars page-node page-node- page-node-200376 node-type-landing-page show-lhn-children chrome" >
+
+<!-- The gtm id code variable ($gtm_code) is set in gtm-header.inc.php -->
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3ZV"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+<div id="top-page">
+  <div class="inner">
+    <div class="skip-link"><a href="#main-content" class="element-invisible element-focusable">Skip to main content</a></div>
+  </div>
+</div>
+
+
+<header role="banner">
+  <div class="siteinfo inner">
+          <div class="cruk-logo">
+        <a href="/" title="Cancer Research UK Homepage" rel="home">
+          <img src="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg" alt="Cancer Research UK Homepage" />
+        </a>
+      </div>
+    
+          <p class="site-slogan">Together we will beat cancer</p>
+    
+    <div id="cruk-search">
+      <form action="/searchredirect" id="dd-searchform">
+        <input type="hidden" value="1" name="siteid">
+        <input type="text" class="search" placeholder="Search" name="query" id="query">
+        <button aria-label="Search" name="searchsubmit" id="searchsubmit" class="searchsubmit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+      </form>
+    </div>
+
+    <a class="mhead-right" href="/get-involved/donate/">Donate</a>
+  </div><!-- #siteinfo -->
+
+  <div class="header-region">
+    <div class="inner">
+            <!-- start: ul megamenu -->
+      <div>
+    <div id="cruk-nav">
+      <div id="masthead_table">
+        <ul class="megamenu" id="drupal-mdd"><li class="mm-item selected"><p><a href="https://www.cancerresearchuk.org/about-cancer/" class="mm-item-link">About cancer</a><span class="cr-i cr-i--chevron-down"></span></p>
+      <div style="width: 940px">
+          <ul class="list-content" id="about-cancer-menu"><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-cancer/type" class="level2">Cancer types</a></p><ul><li><a href="https://www.cancerresearchuk.org/about-cancer/breast-cancer" class="level3">Breast cancer</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/bowel-cancer" class="level3">Bowel cancer</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/lung-cancer" class="level3">Lung cancer</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/prostate-cancer" class="level3">Prostate cancer</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/type" class="level3">More...</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-cancer/cancer-in-general" class="level2">Cancers in general</a></p><ul><li><a href="https://www.cancerresearchuk.org/about-cancer/cancer-symptoms" class="level3">Symptoms</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/screening" class="level3">Screening</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/cancer-in-general/tests" class="level3">Tests</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/cancer-in-general/treatment" class="level3">Treatment</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial" class="level3">Clinical trials</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer" class="level2">Causes of cancer</a></p><ul><li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/smoking-and-cancer" class="level3">Smoking</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/alcohol-and-cancer" class="level3">Alcohol</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer" class="level3">Diet</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/bodyweight-and-cancer" class="level3">Obesity</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/sun-uv-and-cancer" class="level3">Sun and UV</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-cancer/coping-with-cancer/" class="level2">Coping with cancer</a></p><ul><li><a href="https://www.cancerresearchuk.org/about-cancer/coping-with-cancer/coping-physically/" class="level3">Managing symptoms and side effects</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/coping-with-cancer/coping-emotionally/" class="level3">Counselling and talking</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/coping-with-cancer/coping-practically/" class="level3">Money and travel</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/coping-with-cancer/dying/" class="level3">Death and dying</a></li><li><a href="https://www.cancerresearchuk.org/about-cancer/cancer-chat" class="level3">Cancer Chat forum</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/health-professional" class="level2">Health Professionals</a></p><ul><li><a href="https://www.cancerresearchuk.org/health-professional/cancer-statistics" class="level3">Cancer Statistics</a></li><li><a href="https://www.cancerresearchuk.org/health-professional/local-cancer-statistics-service" class="level3">Local cancer statistics</a></li><li><a href="https://www.cancerresearchuk.org/health-professional/early-diagnosis-activities/be-clear-on-cancer" class="level3">Be Clear on Cancer</a></li><li><a href="https://www.cancerresearchuk.org/health-professional/learning-and-development-tools/nice-cancer-referral-guidelines" class="level3">NICE suspected cancer referral guidelines</a></li><li><a href="https://www.cancerresearchuk.org/health-professional" class="level3">More...</a></li></ul></li></ul>
+      </div>
+    </li><li class="mm-item"><p><a href="https://www.cancerresearchuk.org/get-involved" class="mm-item-link">Get involved</a><span class="cr-i cr-i--chevron-down"></span></p>
+      <div style="width: 940px">
+          <ul class="list-content" id="get-involved-menu"><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/get-involved/donate" class="level2">Donate</a></p><ul><li><a href="https://www.cancerresearchuk.org/get-involved/donate" class="level3">Make a donation</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/donate/donate-by-cancer-type" class="level3">By cancer type</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/leave-a-legacy-gift-in-your-will" class="level3">Leave a legacy gift</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/donate/donate-in-memory" class="level3">Donate in Memory</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/donate" class="level3">More...</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/get-involved/find-an-event" class="level2">Find an event</a></p><ul><li><a href="https://www.cancerresearchuk.org/get-involved/find-an-event/charity-runs/race-for-life" class="level3">Race for Life</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/find-an-event/charity-runs" class="level3">Charity runs</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/find-an-event/search-results?tags[0]=Walks" class="level3">Charity walks</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/find-an-event/search-results" class="level3">Search events</a></li><li><a href="http://relay.cancerresearchuk.org" class="level3">Relay For Life</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/find-an-event" class="level3">More...</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/get-involved/volunteer" class="level2">Volunteer</a></p><ul><li><a href="https://www.cancerresearchuk.org/get-involved/volunteer/volunteer-in-our-shops" class="level3">Volunteer in our shops</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/volunteer/help-at-an-event" class="level3">Help at an event</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/volunteer/help-us-raise-money" class="level3">Help us raise money</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/volunteer/opportunities-near-you" class="level3">Volunteer in your area</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/volunteer" class="level3">More...</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising" class="level2">Do your own fundraising</a></p><ul><li><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising/fundraising-ideas" class="level3">Fundraising ideas</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising/get-fundraising-pack" class="level3">Get a fundraising pack</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising/return-your-money" class="level3">Return fundraising money</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising/target-your-fundraising" class="level3">Fundraise by cancer type</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising/practical-fundraising-help/set-up-a-cancer-research-uk-giving-page" class="level3">Set up a Cancer Research UK Giving Page</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/do-your-own-fundraising" class="level3">More...</a></li></ul></li><li class="toplevel"><p>More...</p><ul><li><a href="https://www.cancerresearchuk.org/get-involved/find-a-shop" class="level3">Find a shop or superstore</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/donate/special-occasion" class="level3">Fundraise at your celebration</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/campaign-for-us" class="level3">Campaign for us</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/become-a-partner" class="level3">Become a partner</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/donate/kids-and-teens" class="level3">Cancer Research UK for Children &amp; Young People</a></li><li><a href="https://www.cancerresearchuk.org/rightnow-campaign/" class="level3">Our Right Now campaign</a></li></ul></li></ul>
+      </div>
+    </li><li class="mm-item"><p><a href="https://www.cancerresearchuk.org/our-research" class="mm-item-link">Our research</a><span class="cr-i cr-i--chevron-down"></span></p>
+      <div style="width: 940px">
+          <ul class="list-content" id="our-research-menu"><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-type" class="level2">By cancer type</a></p><ul><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-type/our-research-on-brain-tumours" class="level3">Brain tumours</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-type/our-research-on-skin-cancer" class="level3">Skin cancer</a></li><li><a href="/our-research/our-research-by-cancer-type/our-research-on-breast-cancer" class="level3">Breast cancer</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-type" class="level3">All cancer types</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-subject" class="level2">By cancer topic</a></p><ul><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-subject/our-research-on-clinical-trials" class="level3">New treatments</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-subject/our-research-on-cancer-biology" class="level3">Cancer biology</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-subject/our-research-on-cancer-drugs" class="level3">Cancer drugs</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-by-cancer-subject" class="level3">All cancer subjects</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/our-research/our-research-near-you" class="level2">Near you</a></p><ul><li><a href="https://www.cancerresearchuk.org/our-research/our-research-near-you/our-research-in-belfast" class="level3">Belfast</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-near-you/our-research-in-cardiff" class="level3">Cardiff</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-near-you/our-research-in-edinburgh" class="level3">Edinburgh</a></li><li><a href="https://www.cancerresearchuk.org/our-research/our-research-near-you" class="level3">All locations</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/our-research/researchers" class="level2">By Researcher</a></p><ul><li><a href="https://www.cancerresearchuk.org/researchers/professor-duncan-baird" class="level3">Professor Duncan Baird</a></li><li><a href="https://www.cancerresearchuk.org/researchers/professor-fran-balkwill" class="level3">Professor Fran Balkwill</a></li><li><a href="https://www.cancerresearchuk.org/researchers/professor-andrew-biankin" class="level3">Professor Andrew Biankin</a></li><li><a href="https://www.cancerresearchuk.org/researchers" class="level3">See all researchers</a></li></ul></li><li class="toplevel"><p>More...</p><ul><li><a href="https://www.cancerresearchuk.org/our-progress" class="level3">Our achievements timeline</a></li><li><a href="https://www.cancerresearchuk.org/about-us/our-organisation/beating-cancer-sooner-our-strategy" class="level3">Our research strategy</a></li><li><a href="https://www.cancerresearchuk.org/our-research/involving-animals-in-research" class="level3">Involving animals in research</a></li></ul></li></ul>
+      </div>
+    </li><li class="mm-item"><p><a href="https://www.cancerresearchuk.org/funding-for-researchers" class="mm-item-link">Funding for researchers</a><span class="cr-i cr-i--chevron-down"></span></p>
+      <div style="width: 940px">
+          <ul class="list-content" id="funding-for-researchers-menu"><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/funding-for-researchers" class="level2">Research opportunities</a></p><ul><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-basic-science-and-discovery-research" class="level3">For discovery researchers</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/clinical-research" class="level3">For clinical researchers</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-population-and-behavioural-research" class="level3">For population researchers</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/drug-discovery-and-development" class="level3">In drug discovery &amp; development</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-early-detection-and-diagnosis" class="level3">In early detection &amp; diagnosis</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/opportunities-for-phd-students-and-postdoc-researchers" class="level3">For students &amp; postdocs</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes?items_per_page=40" class="level2">Our funding schemes</a></p><ul><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/career-development-fellowship" class="level3">Career Development Fellowship</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/pioneer-award" class="level3">Pioneer Award</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/cancer-grand-challenges" class="level3">Cancer Grand Challenges</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes" class="level3">View all schemes and deadlines</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/funding-for-researchers/applying-for-funding" class="level2">Applying for funding</a></p><ul><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/applying-for-funding/start-your-funding-application-online" class="level3">Start your application online</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/applying-for-funding/how-to-make-a-successful-application" class="level3">How to make a successful application</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/applying-for-funding/funding-committees" class="level3">Funding committees</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/applying-for-funding/how-to-make-a-successful-application/successful-applicant-case-studies" class="level3">Successful applicant case studies</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/funding-for-researchers/how-we-deliver-research" class="level2">How we deliver research</a></p><ul><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/our-research-strategy" class="level3">Our research strategy</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/our-research-infrastructure" class="level3">Our research infrastructure</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/research-events-and-conferences" class="level3">Events and conferences</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/how-we-deliver-research/our-research-partnerships" class="level3">Our research partnerships</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/facts-and-figures-about-our-research-funding" class="level3">Facts &amp; figures about our funding</a></li></ul></li><li class="toplevel"><p>More...</p><ul><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/research-career-development-opportunities" class="level3">Develop your research career</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/how-we-deliver-research/recently-funded-awards" class="level3">Recently funded awards</a></li><li><a href="https://www.cancerresearchuk.org/funding-for-researchers/manage-your-research-grant" class="level3">Manage your research grant</a></li><li><a href="https://www.cancerresearchuk.org/home/funding-for-researchers/manage-your-research-grant/tell-us-about-new-publications" class="level3">Notify us of new publications</a></li></ul></li></ul>
+      </div>
+    </li><li class="mm-item"><p><a href="https://www.cancerresearchuk.org/get-involved/ways-to-shop" class="mm-item-link">Shop</a><span class="cr-i cr-i--chevron-down"></span></p>
+      <div style="width: 940px">
+          <ul class="list-content" id="shop-menu"><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/get-involved/find-a-shop" class="level2">Find a shop</a></p><ul><li><a href="https://www.cancerresearchuk.org/get-involved/volunteer/volunteer-in-our-shops" class="level3">Volunteer in a shop</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/donate/donate-goods" class="level3">Donate goods to a shop</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/ways-to-shop/superstores" class="level3">Our superstores</a></li></ul></li><li class="toplevel"><p><a href="https://shop.cancerresearchuk.org/" class="level2">Shop online</a></p><ul><li><a href="https://shop.cancerresearchuk.org/fundraising-events/race-for-life" class="level3">Race for Life</a></li><li><a href="https://shop.cancerresearchuk.org/products/wedding-favours" class="level3">Wedding favours</a></li><li><a href="https://shop.cancerresearchuk.org/cancer-care" class="level3">Cancer Care</a></li><li><a href="https://flowershop.cancerresearchuk.org/" class="level3">Flower Shop</a></li></ul></li><li class="toplevel"><p><a href="https://www.ebay.co.uk/str/ukcancerresearch" class="level2">Our eBay store</a></p><ul><li><a href="https://www.ebay.co.uk/str/ukcancerresearch/Dresses/_i.html?_storecat=13763243016" class="level3">Dresses</a></li><li><a href="https://www.ebay.co.uk/str/ukcancerresearch/Shoes-and-Boots/_i.html?_storecat=13763242016" class="level3">Shoes and boots</a></li><li><a href="https://www.ebay.co.uk/str/ukcancerresearch/Bags-Purses/_i.html?_storecat=13869673016" class="level3">Bags and purses</a></li></ul></li></ul>
+      </div>
+    </li><li class="mm-item"><p><a href="https://www.cancerresearchuk.org/about-us/" class="mm-item-link">About us</a><span class="cr-i cr-i--chevron-down"></span></p>
+      <div style="width: 940px">
+          <ul class="list-content" id="about-us-menu"><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-us" class="level2">What we do</a></p><ul><li><a href="https://www.cancerresearchuk.org/cancer-info/cancerandresearch/progress/impact-on-cancer-types/" class="level3">We beat cancer</a></li><li><a href="https://www.cancerresearchuk.org/get-involved/how-your-support-helps" class="level3">We fundraise</a></li><li><a href="https://www.cancerresearchuk.org/about-us/we-develop-policy" class="level3">We develop policy</a></li><li><a href="https://www.cancerresearchuk.org/our-year" class="level3">Our Year 2018/19</a></li><li><a href="https://www.cancerresearchuk.org/global-role" class="level3">Our global role</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-us/our-organisation" class="level2">Our organisation</a></p><ul><li><a href="https://www.cancerresearchuk.org/about-us/our-organisation/beating-cancer-sooner-our-strategy" class="level3">Our strategy</a></li><li><a href="https://www.cancerresearchuk.org/about-us/how-we-are-run/our-trustees" class="level3">Our Trustees</a></li><li><a href="https://www.cancerresearchuk.org/about-us/how-we-are-run/chief-executive-and-executive-board" class="level3">CEO and Executive Board</a></li><li><a href="https://www.cancerresearchuk.org/about-us/our-organisation/how-we-spend-your-money" class="level3">How we spend your money</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-us/charity-jobs" class="level2">Current jobs</a></p><ul><li><a href="https://www.cancerresearchuk.org/about-us/charity-jobs/graduates-and-interns/graduate-scheme" class="level3">Graduates and interns</a></li><li><a href="https://www.cancerresearchuk.org/about-us/your-development" class="level3">Your development</a></li><li><a href="https://www.cancerresearchuk.org/about-us/charity-jobs/benefits" class="level3">Benefits</a></li></ul></li><li class="toplevel"><p><a href="https://www.cancerresearchuk.org/about-us/cancer-news" class="level2">Cancer news</a></p><ul><li><a href="http://scienceblog.cancerresearchuk.org" class="level3">Science blog</a></li><li><a href="https://www.cancerresearchuk.org/about-us/cancer-news/press-release" class="level3">Latest press releases</a></li><li><a href="https://www.cancerresearchuk.org/about-us/cancer-news/news-report" class="level3">Latest news reports</a></li><li><a href="https://www.cancerresearchuk.org/about-us/cancer-news/news-search" class="level3">Search all news</a></li></ul></li><li class="toplevel"><p>More...</p><ul><li><a href="https://www.cancerresearchuk.org/about-us/contact-us" class="level3">Contact us</a></li><li><a href="https://www.cancerresearchuk.org/about-us/press-office" class="level3">Press office</a></li><li><a href="http://publications.cancerresearchuk.org/" class="level3">Publications</a></li><li><a href="https://www.cancerresearchuk.org/about-us/contact-us/opt-in-form" class="level3">Update your contact preferences</a></li></ul></li></ul>
+      </div>
+    </li></ul>
+      </div>
+    </div>
+  </div>
+      <noscript>
+        <ul class="megamenu js-off">
+          <!-- start: top li -->
+          <li class="mm-item"><p><a class="mm-item-link" href="/about-cancer">ABOUT CANCER</a></p></li>
+          <!-- end: top li -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- start: top li -->
+          <li class="mm-item"><p><a class="mm-item-link" href="/get-involved">GET INVOLVED</a></p></li>
+          <!-- end: top li -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- start: top li -->
+          <li class="mm-item"><p><a class="mm-item-link" href="/cancer-info">NEWS &amp; RESOURCES</a></p></li>
+          <!-- end: top li -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- start: top li -->
+          <li class="mm-item"><p><a class="mm-item-link" href="/science">FUNDING &amp; RESEARCH</a></p></li>
+          <!-- end: top li -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- start: top li -->
+          <li class="mm-item"><p><a class="mm-item-link" href="/about-us">ABOUT US</a></p></li>
+          <!-- end: top li -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+          <!-- ignore empty title -->
+        </ul>
+      </noscript>
+      <!-- end: ul megamenu -->
+    </div>
+  </div><!-- .header-region -->
+  <div id="breadcrumb">
+    <div class="inner">
+      <p class="element-invisible">You are here</p><div class="breadcrumb"><a href="/">Home</a><img src="/sites/all/themes/custom/cruk/images/breadcrumb-arrow.png" alt=">" border="0" />About Cancer</div>    </div>
+  </div>
+</header>
+
+
+<div class="page">
+  <div class="wrapper no-gutter container">
+    <main role="main" id="main-content" tabindex="-1">
+      <!-- start of main content -->
+                    <h1>About Cancer</h1>
+                  
+      
+      
+            
+    
+<div >
+  
+      
+  
+  <div class="container">
+<div class="panel panel-default panel-announcement">
+<div class="panel-heading">
+<h2 class="panel-title"><b>Coronavirus and cancer</b></h2>
+</div>
+<div class="panel-body">
+<p>We know it’s a worrying time for people with cancer, we have information to help. If you have symptoms of cancer contact your doctor.</p>
+
+<p class="button"><a href="/about-cancer/cancer-in-general/coronavirus" role="button">Read our information about coronavirus and cancer</a></p>
+
+</div>
+</div>
+</div>
+  </div>
+<div class="wide_100_73_333_multi" >
+
+   <div id="panel-row-0" class="panel-row top-section no-gutter col-md-12 col-sm-12 col-xs-12">
+        
+           </div>
+
+                      <div id="panel-3" class="col-md-12 col-sm-12 col-xs-12">
+                   <div class="panel-content">
+                        <div class="panel-pane pane-cruk-hero-image"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="brand-hero-banner-wrapper" class="layout-2 cruk-blue"><a class="brand-hero-banner" href="http://www.cancerresearchuk.org/about-cancer/type"><div class="mobile-image" style="background-image: url(https://www.cancerresearchuk.org/sites/default/files/hand_holding_547-350_0.jpg);"></div><div class="desktop-image"><div class="inner-mask"><img src="https://www.cancerresearchuk.org/sites/default/files/hand_holding_547-350_0.jpg" alt=""></div></div><div class="message-container"><div class="message-inner"><div class="main-title">Cancer types</div><div class="title-second-line"></div><div class="tag-line">Everything from symptoms to coping after treatment.</div><div class="call-to-action">Choose a cancer type</div></div></div><div class="brand-atom-one"></div><div class="brand-atom-two"></div><div class="brand-atom-three"></div></a></div>  </div>
+
+  
+  </div>
+                   </div>
+              </div>
+        
+
+   <div id="panel-row-1" class="panel-row panel-related-row">
+                      <div id="panel-4" class="col-md-6 col-sm-6 col-xs-12">
+                <div class="panel-content">
+                    <div class="panel-pane pane-fieldable-panels-pane pane-uuid-31f91928-cc08-45b5-a5b5-83ce8642f5d1 pane-bundle-fieldable-panels-pane pane-promo"  >
+  
+        <h2 class="pane-title">
+      <a href="/about-cancer/cancer-in-general">General cancer information</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+<!-- field-image.tpl.php -->
+<div class="field field-type-image">
+  
+  
+        <a href="/about-cancer/cancer-in-general"><div class="img_container"><div class="lazyloader-icon"></div><img typeof="foaf:Image" data-src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/cancer_patient_receiving_treatment_and_assistance_from_nurses_medium.jpg?itok=Vuz6bryW" src="/sites/all/themes/custom/cruk/images/cruk-image_placeholder.gif"   alt="Cancer patient receiving treatment and assistance from nurses" /></div><noscript><img typeof="foaf:Image" src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/cancer_patient_receiving_treatment_and_assistance_from_nurses_medium.jpg?itok=Vuz6bryW"   alt="Cancer patient receiving treatment and assistance from nurses" /></noscript></a></a>
+        </div>
+
+
+<div class="field field-type-text-with-summary">
+  
+  
+                <div class="field-item"><p><span>Find information about how cancer starts, tests to diagnose and general information about treatments.</span></p>
+<div class="more"><a href="/about-cancer/cancer-in-general"><span>General cancer information</span></a></div>
+</div>
+        </div>
+</div>
+  </div>
+
+  
+  </div>
+                </div>
+              </div>
+        
+                      <div id="panel-5" class="col-md-6 col-sm-6 col-xs-12">
+                <div class="panel-content">
+                    <div class="panel-pane pane-fieldable-panels-pane pane-uuid-2e981b80-bc6e-4ed9-b0ee-a8853e9433dc pane-bundle-fieldable-panels-pane pane-promo"  >
+  
+        <h2 class="pane-title">
+      <a href="/about-cancer/coping">Coping with cancer</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+<!-- field-image.tpl.php -->
+<div class="field field-type-image">
+  
+  
+        <a href="/about-cancer/coping"><div class="img_container"><div class="lazyloader-icon"></div><img typeof="foaf:Image" data-src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/a_couple_at_home_browsing_the_new_cancerhelp_uk_website_medium.jpg?itok=0bLT5g_C" src="/sites/all/themes/custom/cruk/images/cruk-image_placeholder.gif"   alt="A couple at home browsing the website" /></div><noscript><img typeof="foaf:Image" src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/a_couple_at_home_browsing_the_new_cancerhelp_uk_website_medium.jpg?itok=0bLT5g_C"   alt="A couple at home browsing the website" /></noscript></a></a>
+        </div>
+
+
+<div class="field field-type-text-with-summary">
+  
+  
+                <div class="field-item"><p><span>A cancer diagnosis can be overwhelming. Find out about coping with the emotional, practical and physical effects.</span></p>
+<div class="more"><a href="/about-cancer/coping">Coping with cancer</a></div>
+</div>
+        </div>
+</div>
+  </div>
+
+  
+  </div>
+                </div>
+              </div>
+            </div>
+
+        
+    <div id="panel-row-2" class="panel-row panel-related-row">
+                      <div id="panel-7" class="col-md-4 col-sm-4 col-xs-12">
+                   <div class="panel-content">
+                        <div class="panel-pane pane-fieldable-panels-pane pane-current-54616 pane-bundle-fieldable-panels-pane pane-promo"  >
+  
+        <h2 class="pane-title">
+      <a href="/about-cancer/find-a-clinical-trial">Research and clinical trials</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+<!-- field-image.tpl.php -->
+<div class="field field-type-image">
+  
+  
+        <a href="/about-cancer/find-a-clinical-trial"><div class="img_container"><div class="lazyloader-icon"></div><img typeof="foaf:Image" data-src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/smiling_nurses_medium.jpg?itok=exALUPDE" src="/sites/all/themes/custom/cruk/images/cruk-image_placeholder.gif"   alt="Smiling nurses" /></div><noscript><img typeof="foaf:Image" src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/smiling_nurses_medium.jpg?itok=exALUPDE"   alt="Smiling nurses" /></noscript></a></a>
+        </div>
+
+
+<div class="field field-type-text-with-summary">
+  
+  
+                <div class="field-item"><p><span>Whether you are looking for a clinical trial to take part in, information about how trials are planned or for trial results you can find it here.</span></p>
+<div class="more"><a href="/about-cancer/find-a-clinical-trial">Research and clinical trials</a></div>
+</div>
+        </div>
+</div>
+  </div>
+
+  
+  </div>
+                   </div>
+              </div>
+
+        
+                      <div id="panel-8" class="col-md-4 col-sm-4 col-xs-12">
+                   <div class="panel-content">
+                        <div class="panel-pane pane-fieldable-panels-pane pane-uuid-184aa8ee-c397-4f69-9f94-2226ef783cb3 pane-bundle-fieldable-panels-pane pane-promo"  >
+  
+        <h2 class="pane-title">
+      <a href="/about-cancer/causes-of-cancer">Causes of cancer</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+<!-- field-image.tpl.php -->
+<div class="field field-type-image">
+  
+  
+        <a href="/about-cancer/causes-of-cancer"><div class="img_container"><div class="lazyloader-icon"></div><img typeof="foaf:Image" data-src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/apple_and_measuring_tape_medium.jpg?itok=NOjAjSP6" src="/sites/all/themes/custom/cruk/images/cruk-image_placeholder.gif"   alt="Apple and measuring tape" /></div><noscript><img typeof="foaf:Image" src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/apple_and_measuring_tape_medium.jpg?itok=NOjAjSP6"   alt="Apple and measuring tape" /></noscript></a></a>
+        </div>
+
+
+<div class="field field-type-text-with-summary">
+  
+  
+                <div class="field-item"><p><span>Learn about reducing your risk of cancer through lifestyle changes such as stopping smoking or keeping a healthy weight.</span></p>
+<div class="more"><a href="/about-cancer/causes-of-cancer"><span>Causes of cancer</span></a></div>
+</div>
+        </div>
+</div>
+  </div>
+
+  
+  </div>
+                   </div>
+              </div>
+        
+                      <div id="panel-9" class="col-md-4 col-sm-4 col-xs-12">
+                   <div class="panel-content">
+                        <div class="panel-pane pane-fieldable-panels-pane pane-current-54631 pane-bundle-fieldable-panels-pane pane-promo"  >
+  
+        <h2 class="pane-title">
+      <a href="/about-cancer/coping/family-friends-caregivers">Family and friends</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+<!-- field-image.tpl.php -->
+<div class="field field-type-image">
+  
+  
+        <a href="/about-cancer/coping/family-friends-caregivers"><div class="img_container"><div class="lazyloader-icon"></div><img typeof="foaf:Image" data-src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/image-for-about-cancer-landing-page_0.png?itok=blE9QmNY" src="/sites/all/themes/custom/cruk/images/cruk-image_placeholder.gif"   alt="" /></div><noscript><img typeof="foaf:Image" src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_no_style/public/image-for-about-cancer-landing-page_0.png?itok=blE9QmNY"   alt="" /></noscript></a></a>
+        </div>
+
+
+<div class="field field-type-text-with-summary">
+  
+  
+                <div class="field-item"><div class="more">Cancer affects family and friends too. Get tips on how to support someone with cancer and how to take care of yourself.</div>
+<div class="more"> </div>
+<div class="more"><a href="/about-cancer/coping/family-friends-caregivers">Family and friends</a></div>
+</div>
+        </div>
+</div>
+  </div>
+
+  
+  </div>
+                   </div>
+              </div>
+            </div>
+
+    <div id="panel-row-3" class="panel-row panel-related-row">
+        
+        
+            </div>
+
+    <div id="panel-row-4" class="panel-row panel-related-row">
+        
+        
+            </div>
+
+    <div id="panel-row-5" class="panel-row panel-related-row">
+        
+        
+            </div>
+
+       
+        
+        
+        
+      <div id="panel-22" class="col-md-12 col-sm-12 col-xs-12">
+                      <div class="rate-section" >
+                  <div class="panel-pane pane-block pane-block-26"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="sponsorship footer">
+  <div class="sponsorship-image">
+    <img alt="Dangoor logo" class="info-icon" 
+         src="/sites/default/files/dangoor-logo.png"
+         title="Dangoor Education" typeof="foaf:Image"
+         />
+  </div>
+  <div class="sponsorship-text-wrapper">
+    About Cancer generously supported by <br class="break-sm-mobile" />Dangoor Education since 2010.
+  </div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-fivestar-rate-this-page"  >
+  
+        <h2 class="pane-title">
+      Rate this page:    </h2>
+    
+  
+  <div class="pane-content">
+    
+
+<div class="field field-type-fivestar">
+  
+  
+                <div class="field-item"><form class="fivestar-widget" action="/about-cancer" method="post" id="fivestar-custom-widget" accept-charset="UTF-8"><div><div  class="clearfix fivestar-average-text fivestar-user-stars fivestar-form-item fivestar-pinkstar">
+<div>
+ 
+<div>
+ <select id="edit-vote--2" name="vote" class="form-select"><option value="-">Select rating</option><option value="20">Give About Cancer 1/5</option><option value="40">Give About Cancer 2/5</option><option value="60">Give About Cancer 3/5</option><option value="80">Give About Cancer 4/5</option><option value="100">Give About Cancer 5/5</option></select>
+
+<small><div class="fivestar-summary fivestar-summary-average-count"><span class="average-rating">Currently rated: <strong>3.6</strong> out of <strong>5</strong></span> <span class="total-votes"> based on <strong>1623</strong> votes</span></div></small>
+</div>
+
+</div>
+</div><input class="fivestar-submit" type="submit" id="edit-fivestar-submit" name="op" value="Rate" /><input type="hidden" name="form_build_id" value="form-kwn2MfOLRMRVKGUaKSxxU7XLIEpOY7C3JsCtwbntUHA" />
+<input type="hidden" name="form_id" value="fivestar_custom_widget" />
+</div></form></div>
+        </div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-rate-this-rate-this-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/about-cancer" method="post" id="rate-this-form" accept-charset="UTF-8"><div><div class="star-vote-thank-you-msg" id="rt-vote-thankyou">Thank you!</div><div class="vote-comment-header" id="rt-vote-comment">We've recently made some changes to the site, tell us what you think</div><div class="vote-comment-area" id="rt-comment-area">
+<div>
+ <div class="form-textarea-wrapper"><textarea id="edit-comment-area" name="comment_area" cols="60" rows="5"></textarea></div>
+</div>
+</div><div class="vote-comment-submit-btn" id="rt-submit-btn"><input type="submit" id="edit-submit" name="op" value="Send" /></div><input type="hidden" name="nid" value="200376" />
+<input type="hidden" name="user_ip" value="52.28.122.5" />
+<input type="hidden" name="page_title" value="About Cancer" />
+<input type="hidden" name="page_url" value="about-cancer" />
+<div id="ajax-feedback-message"></div><input type="hidden" name="form_build_id" value="form-jjotKZStoqhZjIA9Rw933AmyyXTHoDB4gIpoIwbTYEk" />
+<input type="hidden" name="form_id" value="rate_this_form" />
+<input type="hidden" name="honeypot_time" value="1598162577|mjLCUu0s71HI2Y9PnH_5iH24bqkKH7ks89WMH1IhA3A" />
+<div class="homepage-textfield">
+<div>
+  <label for="edit-homepage">Leave this field blank</label>
+ <input autocomplete="off" type="text" id="edit-homepage" name="homepage" value="" size="30" maxlength="128" />
+</div>
+</div></div></form>  </div>
+
+  
+  </div>
+              </div>
+              </div>
+
+                      <div id="panel-23" class="col-md-12 col-sm-12 col-xs-12" >
+                  <div class="panel-pane pane-block pane-block-36"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="awards-two">
+  <ul>
+    <li class="award pif"><a href="https://pifonline.org.uk" title="Visit the Patient Information Forum site"><img alt="PIFTICK logo"  src="/sites/default/files/piftick-medium.png" title="Patient Information Forum" typeof="foaf:Image" > </a></li>
+    <li class="award pec"><a href="http://www.plainenglish.co.uk/crystal-mark/about-the-crystal-mark/the-crystal-mark-standard.html" title="Visit the Plain English Community site"><img alt="PEC-award logo"  src="/sites/default/files/pec-award.png" title="Plain English Community award" typeof="foaf:Image" > </a></li>
+  </ul>
+</div>  </div>
+
+  
+  </div>
+              </div>
+        
+
+</div>
+  
+            <div id="mobile-nav"></div>
+     <!-- end of main content -->
+    </main>
+
+    
+    
+  </div><!-- #wrapper -->
+</div>
+
+<footer role="contentinfo">
+  <div class="container">
+    <div class="footer-links">
+      <div class="footer-links__list">
+        <h2>Speak to a nurse</h2>
+        <ul>
+          <li><a href="/about-cancer/utilities/contact-us/send-a-question/?secure=true">Ask one of our nurses a question</a></li>
+          <li><a href="tel://0808 800 4040">Call 0808 800 4040</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-links__list">
+        <h2>Quick links</h2><ul class="links"><li class="0 first"><a href="/get-involved/find-a-shop">Find local shops</a></li>
+<li class="1"><a href="https://shop.cancerresearchuk.org/?utm_source=cruk_footer">Shop online</a></li>
+<li class="2"><a href="/about-us/contact-us">Contact us</a></li>
+<li class="3 last"><a href="/about-us/charity-jobs">Jobs</a></li>
+</ul>      </div>
+
+      <div class="footer-links__icons">
+        <h2>Follow us</h2>
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/cancerresearchuk/">
+              <img src="/sites/all/themes/custom/cruk/images/social_icons/facebook_icon.svg" alt="Like Cancer Research UK on Facebook"/>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/CR_UK">
+              <img src="/sites/all/themes/custom/cruk/images/social_icons/twitter_icon.svg" alt="Follow Cancer Research UK on Twitter" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/cr_uk/">
+              <img src="/sites/all/themes/custom/cruk/images/social_icons/instagram_icon.svg" alt="Follow Cancer Research UK on Instagram" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/company/cancer-research-uk/">
+              <img src="/sites/all/themes/custom/cruk/images/social_icons/linkedin_icon.svg" alt="Connect with Cancer Research UK on LinkedIn" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/user/cancerresearchuk">
+              <img src="/sites/all/themes/custom/cruk/images/social_icons/youtube_icon.svg" alt="Subscribe to Cancer Research UK on YouTube" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-links">
+      <div class="footer-links__list--horizontal">
+        <ul class="links"><li class="0 first"><a href="/about-cancer/about-our-information">About our information</a></li>
+<li class="1"><a href="/about-us/utilities/terms-and-conditions">Terms and conditions</a></li>
+<li class="2"><a href="/about-us/utilities/privacy-statement">Privacy</a></li>
+<li class="3"><a href="/modern-slavery-transparency-statement">Modern Slavery Statement</a></li>
+<li class="4"><a href="/about-us/utilities/cookies-policy">Cookies</a></li>
+<li class="5"><a href="/about-us/utilities/accessibility">Accessibility</a></li>
+<li class="6 last"><a href="/sitemap">Sitemap</a></li>
+</ul>      </div>
+    </div>
+
+    <div id="awards" class="footer-secondary-content">
+      <a href="https://www.fundraisingregulator.org.uk/"><img src="/sites/all/themes/custom/cruk/images/fund-reg.svg" alt="Registered with Fundraising Regulator (logo)" width="165" height="52" /></a>
+    </div>
+
+    <address class="footer-secondary-content">Cancer Research UK is a registered charity in England and Wales (1089464), Scotland (SC041666), the Isle of Man (1103) and Jersey (247). A company limited by guarantee. Registered company in England and Wales (4325234) and the Isle of Man (5713F). Registered address: 2 Redman Place, London, E20 1JQ.</address>
+  </div>
+</footer>
+<script src="/sites/all/libraries/modernizr/modernizr-3.3.1.js?qfe2s2"></script>
+<script src="/sites/default/files/advagg_js/js__GGZYAFV0PjdzQz9f7_sae2X6RB71T2IdTQ2iXDY_YzQ__pSJpfoX1hTB7CZe3KSLXW9a_rycYrbOoybY4RVB4XnU__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/sites/default/files/advagg_js/js__C-nOOQ_L4XJTle_4B5JDCtnih_srlQ45bnaS2q9SpBc__pTBX9gUvl-3ovovYQQJSpoJHB1OvZ9EA4AZZ1955hH8__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script src="//cdn.optimizely.com/js/2235241580.js"></script>
+<script src="/sites/default/files/advagg_js/js__IS3qKWI1R_CxPf8JiNXVWmXkb_aVkVyKMDvWbIhF4jE__3AQXNirx7NED4JNKGYpAqHoz19QnYQMDkeDsPB-GKVs__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script src="/sites/default/files/advagg_js/js__rUhJpXjUTTY8Fvc9r7HvB6wltFWlY4saefGWQWBs6PE__Lwk80YvdWQzE0OFvp0nQ3SduXKqzRcQW9JRHYOLLclM__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script async="async" src="https://platform.twitter.com/widgets.js"></script>
+<script src="/sites/default/files/advagg_js/js__aOMSAlGrHa-O4zZwMLx6XijFeA_wMimvkB5rx1b4hcw__NWm0KhsN0Mem82tArDw4fP0A0FIYlH0Vg4VvTOkg0Bo__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cruk","theme_token":"WNA-A-vldPVO6jI1zos1w_8j_-8vavslVnu1GmDSygk","jquery_version":"2.1","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/custom\/cruk_gc_timeline\/css\/grand_challenge_timeline.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/geofield_gmap\/geofield_gmap.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/rate_this\/css\/rate_this.css":1,"sites\/all\/modules\/custom\/rate_this\/widgets\/pinkstar\/pinkstar.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/custom\/cruk\/layouts\/100_333_73_landing_wide_multi_panels\/100_333_73_landing_wide_multi_panels.css":1,"sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/custom\/rate_thispinkstar.css":1,"public:\/\/honeypot\/honeypot.css":1,"sites\/all\/modules\/custom\/cruk_donate\/selectmenu\/jquery.ui.selectmenu.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/contrib\/hide_submit\/css\/hide_submit.css":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/css\/reset.css":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/css\/reset-html5.css":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/css\/mothership-default.css":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/css\/mothership.css":1,"sites\/all\/themes\/custom\/cruk\/css\/tabs_to_accordion.css":1,"sites\/all\/themes\/custom\/cruk\/css\/style.css":1,"sites\/all\/themes\/custom\/cruk\/css\/cruk.menus.css":1,"sites\/all\/themes\/custom\/cruk\/css\/mobile.menu.css":1,"sites\/all\/themes\/custom\/cruk\/css\/slick.css":1,"sites\/all\/themes\/custom\/cruk\/css\/content_panel.css":1,"sites\/all\/themes\/custom\/cruk\/css\/scroller.css":1,"sites\/all\/themes\/custom\/cruk\/normalize.css":1,"sites\/all\/themes\/custom\/cruk\/reset.css":1,"sites\/all\/themes\/custom\/cruk\/reset-html5.css":1,"sites\/all\/themes\/custom\/cruk\/mothership.css":1,"sites\/all\/themes\/custom\/cruk\/mothership-default.css":1,"sites\/all\/themes\/custom\/cruk\/mothership-devel-mediaqueries.css":1,"sites\/all\/themes\/custom\/cruk\/css\/print.css":1,"public:\/\/css_injector\/css_injector_31.css":1,"public:\/\/css_injector\/css_injector_131.css":1,"public:\/\/css_injector\/css_injector_156.css":1,"public:\/\/css_injector\/css_injector_196.css":1,"public:\/\/css_injector\/css_injector_201.css":1,"public:\/\/css_injector\/css_injector_206.css":1,"public:\/\/css_injector\/css_injector_211.css":1,"public:\/\/css_injector\/css_injector_226.css":1,"public:\/\/css_injector\/css_injector_241.css":1,"public:\/\/css_injector\/css_injector_251.css":1,"public:\/\/css_injector\/css_injector_261.css":1,"public:\/\/css_injector\/css_injector_276.css":1,"public:\/\/css_injector\/css_injector_281.css":1,"public:\/\/css_injector\/css_injector_291.css":1,"public:\/\/css_injector\/css_injector_296.css":1,"public:\/\/css_injector\/css_injector_306.css":1,"public:\/\/css_injector\/css_injector_346.css":1,"public:\/\/css_injector\/css_injector_361.css":1,"public:\/\/css_injector\/css_injector_371.css":1,"public:\/\/css_injector\/css_injector_376.css":1,"public:\/\/css_injector\/css_injector_426.css":1,"public:\/\/css_injector\/css_injector_441.css":1,"public:\/\/css_injector\/css_injector_446.css":1,"public:\/\/css_injector\/css_injector_456.css":1,"public:\/\/css_injector\/css_injector_466.css":1,"public:\/\/css_injector\/css_injector_471.css":1,"public:\/\/css_injector\/css_injector_481.css":1},"js":{"sites\/all\/modules\/custom\/cruk_image_gallery\/js\/cruk_image_gallery.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/libraries\/modernizr\/modernizr-3.3.1.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"\/\/cdn.optimizely.com\/js\/2235241580.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery.form.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/clientside_validation_rule_pword_match\/js\/clientside_validation_rule_pword_match.js":1,"sites\/all\/modules\/custom\/cruk_donate\/js\/cruk_donate.js":1,"sites\/all\/modules\/custom\/cruk_gc_timeline\/js\/jquery.kinetic.min.js":1,"sites\/all\/modules\/custom\/cruk_gc_timeline\/js\/timeline.js":1,"sites\/all\/modules\/contrib\/geofield_gmap\/geofield_gmap.js":1,"sites\/all\/modules\/contrib\/lazyloader\/jquery.lazyloader.js":1,"sites\/all\/modules\/contrib\/resp_img\/resp_img.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.ajax.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/custom\/cruk_core_info\/js\/cruk_core_info.js":1,"sites\/all\/modules\/custom\/cruk_core_info\/js\/clipboard.min.js":1,"sites\/all\/modules\/custom\/cruk_image_gallery\/js\/slick.min.js":1,"sites\/all\/modules\/custom\/cruk_shine_night_walks\/js\/select-styling.js":1,"sites\/all\/modules\/custom\/cruk_config_fieldable_panels\/js\/cruk_config_fieldable_panels_geolocation.js":1,"sites\/all\/modules\/custom\/cruk_donate\/selectmenu\/jquery.ui.selectmenu.js":1,"https:\/\/platform.twitter.com\/widgets.js":1,"sites\/all\/modules\/custom\/rate_this\/js\/script.js":1,"sites\/all\/modules\/contrib\/extlink\/js\/extlink.js":1,"sites\/all\/modules\/contrib\/hide_submit\/js\/hide_submit.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/bootstrap\/bootstrap\/collapse.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/bootstrap\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/bootstrap\/bootstrap\/transition.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/bootstrap\/bootstrap\/carousel.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/packery.pkgd.min.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/slick.min.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/pure.min.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/jquery.mobile.custom.min.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/media.match.min.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/enquire.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/vendor\/ios-orientationchange-fix.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/console.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/tabs_to_accordion.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/cruk-accordion.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/jquery.megamenu.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/script.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/jquery.mobile-rebrand.js":1,"sites\/all\/themes\/custom\/cruk\/scripts\/interactive_timeline.js":1}},"respImg":{"default_suffix":"_breakpoint_one","current_suffix":false,"forceRedirect":"0","forceResize":"1","reloadOnResize":"0","useDevicePixelRatio":1,"suffixes":{"_breakpoint_two":640,"_breakpoint_three":480,"_breakpoint_four":320,"_breakpoint_one":1}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":false,"hide_submit_reset_time":5000,"hide_submit_button_selector":"#edit-actions \u003E #edit-submit, #edit-actions \u003E #edit-finish"},"ajax":{"edit-vote--2":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-submit":{"callback":"rate_this_form_validate","wrapper":"ajax-feedback-message","effect":"fade","progress":{"message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Send"}}},"urlIsAjaxTrusted":{"\/system\/ajax":true,"\/about-cancer":true},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Cp\u003EWe use cookies to ensure that we give you the best experience on our website. By continuing to use this site you consent to the use of cookies on your device as described in our \u003Ca href=\u0022\/terms-and-conditions\/cookies-policy\u0022 title=\u0022Our cookie policy\u0022\u003Ecookie policy\u003C\/a\u003E. You can change your cookies settings at any time through your \u003Ca href=\u0022http:\/\/www.allaboutcookies.org\/\u0022 target=\u0022_blank\u0022 title=\u0022All about cookies website\u0022\u003Ebrowser settings\u003C\/a\u003E.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022 title=\u0022OK, I agree\u0022\u003E\n        \u003Ci class=\u0022cr-i cr-i--times\u0022 aria-hidden=\u0022true\u0022\u003E\u003C\/i\u003E\n      \u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy tapping the Accept button, you agree to us doing so.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022 title=\u0022OK, I agree\u0022\u003E\n        \u003Ci class=\u0022cr-i cr-i--times\u0022 aria-hidden=\u0022true\u0022\u003E\u003C\/i\u003E\n      \u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":768,"popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/terms-and-conditions\/cookies-policy","popup_link_new_window":1,"popup_position":1,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":null,"popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false,"cookie_name":""},"extlink":{"extTarget":"_blank","extClass":"external","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"(twitter\\.com|facebook\\.com|addthis\\.com|cancerresearchuk\\.org|cruk\\.org|cruk01)","extInclude":"","extCssExclude":".social-link,.ignore-external,.navbar,.cruk-nav,.footer-social,.about-cancer-footer-icons,.pane-node-field-landing-key-message","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false},"lazyloader":{"loadImageDelay":"50"}});</script>
+
+          <noscript>
+        <style type="text/css" media="all">
+          img[data-src] { display: none !important; }
+        </style>
+      </noscript>  
+<script src="/sites/default/files/advagg_js/js__ywzvk4VyCt6RUvk9vQ__ANLfRxJ4KMHkpn_uAvX3dwM__Bg6Ddq24Uz_ea6Vzyrqc84oz1U5L-wYrJGgVXeCiP7M__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src="/sites/default/files/advagg_js/js__WcTpt-w0y1FyXrxZNriX8Ts1KjsFTDpdvZaw9yhRn24__V9YcxQ-7T4bQIOX8KIw_F4lz0UIv2tg6moNtTwT6ZlM__Lri1vOIiEJx7Gou96Nfw0bZP-C4phQKfjVQEI8ydGrw.js"></script>
+<script>(function($){Drupal.behaviors.lazyloader={attach:function(context,settings){$("img[data-src]").lazyloader({distance:100,icon:""});$('img[data-src]').parent().css({position:'relative',display:'block'})}}}(jQuery));</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b822ee32da","applicationID":"70689179","transactionName":"YlNWZkIDChJQUUUNW1sZdVFECwsPHkJQA1FqW1VcUQUBE25cXgBRakBdV0c9FABWVw==","queueTime":0,"applicationTime":440,"atts":"ThRVEAoZGRw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

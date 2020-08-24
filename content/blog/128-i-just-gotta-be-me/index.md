@@ -1,0 +1,11 @@
+---
+title: "I just gotta be me"
+date: "2010-06-02T11:55:00-07:00"
+image: ""
+---
+
+I feel a bit odd today. I feel like I have spent a little too much time this morning thinking on one subject. For a person who is random, this is like someone with claustrophobia being trapped in a crowded elevator. My brain wants to be free and unfocused..able to dance between deep and shallow thoughts...to go from the grocery list to wondering if some giraffes ever feel superior just because they are a little bit taller than other giraffes....to being thankful for the person who developed the sharpie with the fine tip. So writing today's entry will be like getting out of my lymph edema support socks and putting on my fuzzy slippers.
+
+Ok so blah blah 3 things...not really 3 things but one big thing yadda yadda...what does it all mean. With cancer or any other difficult situation in life, decisions have to be made. When I was diagnosed I had an initial reaction of shock. I had no idea what to say or do..I was frozen in place. Soon thoughts filled my head based for the most part in fear and anxiety. Eventually I had to make some decisions about how I was going to live day to day with this diagnosis and all the peripheral issues to come. This ain't no easy process sister (or brother)! I spent many hours on my knees, lying awake, in the car, on the radiation table, praying for something...some way to handle "everything". Then these 3 pictures came to me. I do not have to fear because I have a guide who is walking beside me, holding my hand and although I don't have a clear picture of what is ahead I, like a 3yr old don't have to fear what's ahead. 
+I don't have to worry about how I am going to survive as I go because when I need whatever it is...strength, courage, words, ability in whatever form, it will be there. I may not see it now but when I need it, it will be there. And through it I will know that I am loved and Jesus in his Jesus clothes has my back and my front and everything else.
+So freak or no freak this is my story and I'm stickin to it!

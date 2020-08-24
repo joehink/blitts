@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta name="referrer" content="unsafe-url">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Potential Threat Detected</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-config" content="./browserconfig.xml">
+  <meta name="theme-color" content="#000000">
+
+  <link rel="stylesheet" href="./css/theme-xdns-security.min.css" inline>
+
+  <script type="text/javascript" src="js/jquery/jquery.js"></script>
+  <script type="text/javascript" src="js/class/class.min.js"></script>
+  <script type="text/javascript" src="js/jquery-encoder/jquery.jquery-encoder.min.js"></script>
+  <script type="text/javascript" src="js/warn.js"></script>
+</head>
+
+<body onload="render()">
+  <header class="header">
+    <img src="./img/icon_enhanced-security-no-threats.svg" height="70" alt="" inline>
+  </header>
+  <div class="wrapper">
+    <h1>Hold On!</h1>
+    <hr noshade>
+    <div class="section_info">
+      <p>We blocked access to</p>
+      <p id="site"></p>
+    </div>
+    <div class="subheader">
+      <p>This site might compromise your device or contain dangerous content. <br/>
+To avoid these risks, close this window and skip this site. </p>
+    </div>
+    <div class="buttons">
+      <a href="#" class="access_link" id="unsafe" rel="noopener noreferrer">Proceed Anyway</a>
+    </div>
+  </div>
+</body>
+
+</html>
